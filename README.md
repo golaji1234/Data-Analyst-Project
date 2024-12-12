@@ -1,2 +1,2 @@
 # Data-Analyst-Project
-This is a for Advanced Excel & Power bi Project.
+This is For Advanced Excel & Power bi Projects Repository
